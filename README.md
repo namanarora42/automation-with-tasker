@@ -6,11 +6,9 @@
 
 From the [Tasker website](https://tasker.joaoapps.com/) - 
 
-```
-Tasker is an application for Android which performs tasks (sets of actions) based on contexts (application, time, date, location, event, gesture) in user-defined profiles or in clickable or timer home screen widgets.
+>Tasker is an application for Android which performs tasks (sets of actions) based on contexts (application, time, date, location, event, gesture) in user-defined profiles or in clickable or timer home screen widgets.
 
-This simple concept profoundly extends your control of your Android device and it's capabilities, without the need for 'root' or a special home screen.
-```
+>This simple concept profoundly extends your control of your Android device and it's capabilities, without the need for 'root' or a special home screen.
 
 I have automated just about everything possible on my phone and at home using fun Tasker projects.
 
