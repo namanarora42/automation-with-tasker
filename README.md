@@ -4,7 +4,8 @@
 
 ## What is Tasker?
 
-![tasker](https://user-images.githubusercontent.com/85018020/147400400-46cd8df2-ea37-42f7-97b0-dcd55f78d188.png)
+<img src = "https://user-images.githubusercontent.com/85018020/147400400-46cd8df2-ea37-42f7-97b0-dcd55f78d188.png" width=60%/>
+
 
 From the [Tasker website](https://tasker.joaoapps.com/) - 
 
