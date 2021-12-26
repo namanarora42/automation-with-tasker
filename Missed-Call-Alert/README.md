@@ -8,6 +8,8 @@ In the metaverse that we are moving towards, being unavailable to take an urgent
 
 # Solution
 
+First off, I can choose to identify "special callers" or treat all callers as equal. In my current setup, the script triggers only if the repeat caller is a special caller, such as close friends and family. 
+
 For a repeat caller, I would want them to know that my phone is on silent and I'm unable to hear it. If they still want to go ahead with their call, I want to allow them, and provide them a way to "break" the silence of my phone. After every missed call, I track all missed calls for the next 10 minutes. This tracking can be aborted if I need to. 
 
 Tracking started: 
