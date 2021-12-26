@@ -19,3 +19,8 @@ My passphrase is : _#location5678_
 As soon as anybody sends me that text message, Tasker sends a response with my current GPS coordinates, a Google Maps link, the accuracy (in meters) and the battery percentage.
 
 <img src = "https://user-images.githubusercontent.com/85018020/147416780-a22e5964-e0a3-4f25-89c9-a40eef0e9da2.png" width=40% />
+
+
+## Installation
+
+You can import my profile as an XML file in Tasker. Go to the overflow menu, select import, and choose the xml file in this repository (downloaded to your phone). 

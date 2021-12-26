@@ -2,11 +2,11 @@
 
 We live in a world where we are constantly at risk of getting distracted by our phones. Often times, you might want to silence your phone and get disconnected, whether it is for a meeting, or just taking a break. How many times have you fogotten taking your phone off silent, or missed an extremely urgent phone call that you could have justified a distraction for? 
 
-# Problem 
+## Problem 
 
 In the metaverse that we are moving towards, being unavailable to take an urgent could very well be a life or death situation. I created this project after getting my parents worried about my well being, as I had slept off during the day with my phone on silent, and no way for them to contact me. 
 
-# Solution
+## Solution
 
 First off, I can choose to identify "special callers" or treat all callers as equal. In my current setup, the script triggers only if the repeat caller is a special caller, such as close friends and family. 
 
@@ -28,3 +28,6 @@ If the caller still wishes to break the silence and make my phone ring, they wil
 
 It starts playing media in full screen and shows a button that will disable the disable the ringer. 
 
+## Installation
+
+You can import my profile as an XML file in Tasker. Go to the overflow menu, select import, and choose the xml file in this repository (downloaded to your phone). 
