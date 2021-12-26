@@ -12,17 +12,17 @@ For a repeat caller, I would want them to know that my phone is on silent and I'
 
 Tracking started: 
 
-![mca-1](https://user-images.githubusercontent.com/85018020/147400168-ffa939ab-340f-4d5c-a1ff-9ef6be398497.jpg | height = 50%)
+<img src = "https://user-images.githubusercontent.com/85018020/147400168-ffa939ab-340f-4d5c-a1ff-9ef6be398497.jpg" width = 50%/>
 
 After the second phone goes unanswered from the same caller (thus getting 2 missed calls), Tasker sends an automated response to the caller. 
 
 Automated Response Sent to Caller:
 
-![mca-2](https://user-images.githubusercontent.com/85018020/147400171-a6601eac-ab32-4eb0-a5af-eaa21d8d1e2d.jpg)
+<img src = "https://user-images.githubusercontent.com/85018020/147400171-a6601eac-ab32-4eb0-a5af-eaa21d8d1e2d.jpg" width = 50%/>
 
 If the caller still wishes to break the silence and make my phone ring, they will call again. And this time if I don't answer, my phone will come out of "Silent" mode and start ringing, thus waking me up/alerting me of the urgency. 
 
-![mca-3](https://user-images.githubusercontent.com/85018020/147400193-dace30bb-8e57-4912-9500-3dd49fdd6772.jpg)
+<img src = "https://user-images.githubusercontent.com/85018020/147400193-dace30bb-8e57-4912-9500-3dd49fdd6772.jpg" width = 50%/>
 
 It starts playing media in full screen and shows a button that will disable the disable the ringer. 
 
