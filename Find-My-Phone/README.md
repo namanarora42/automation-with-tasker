@@ -17,9 +17,12 @@ This should be very simple! Even if your phone doesn't have internet connectivit
 
 So what do I do? I grab my friend's phone, send myself this text:
 
->#lost5678`
+>#lost5678
 
 And voila, wherever my phone is, internet or not, it will start blasting loud music, with this screen popped up:
+
+<img src = "https://user-images.githubusercontent.com/85018020/147417444-123e6cd1-3248-4a56-9d9c-f53d11c4f1ae.jpg" width=40%/>
+
 
 
 ## Installation
