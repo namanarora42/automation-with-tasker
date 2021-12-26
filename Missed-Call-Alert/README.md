@@ -12,7 +12,7 @@ For a repeat caller, I would want them to know that my phone is on silent and I'
 
 Tracking started: 
 
-![mca-1](https://user-images.githubusercontent.com/85018020/147400168-ffa939ab-340f-4d5c-a1ff-9ef6be398497.jpg)
+![mca-1](https://user-images.githubusercontent.com/85018020/147400168-ffa939ab-340f-4d5c-a1ff-9ef6be398497.jpg | height = 50%)
 
 After the second phone goes unanswered from the same caller (thus getting 2 missed calls), Tasker sends an automated response to the caller. 
 
