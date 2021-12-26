@@ -10,7 +10,7 @@ I tried to solve two problems using this project.
 
 Upon receiving a unique "passphrase" via SMS, Tasker initiates a location share. It will reply back to the original sender with precise GPS coordinates of my phone along with the current battery percentage. 
 
-This can be further enhanced by also capturing a photo from the front and back camera, and sharing a Google Drive link to those photos as a reply to that SMS. 
+This can be further enhanced by also capturing a photo from the front and back camera, and sharing a Google Drive link to those photos as a reply to that SMS. These options are currently disabled in my project, but can be enabled with a click and providing Google Drive Authentication to Tasker.
 
 ## Implementation 
 
