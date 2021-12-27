@@ -1,5 +1,7 @@
 # Find My Phone 
 
+> If you came here expecting a project that lets you get the GPS coordinates of your phone, [this](https://github.com/namanarora97/automation-with-tasker/tree/main/SOS-Location) is the project for you.
+
 This project is another implementation of SMS-driven events. I thought of this idea when I had lost my phone while at a party, and my phone, _obviously_, was on vibrate-only. 
 
 ## Problem
