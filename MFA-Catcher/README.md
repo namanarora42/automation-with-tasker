@@ -23,6 +23,7 @@ The solution is two-fold.
  ## Implementation 
 
 One-time password received on the phone triggers this profile. 
+
 <img src = "https://user-images.githubusercontent.com/85018020/147509050-31ce848c-8b6f-4c8b-9dda-95c0a1042115.png" width = 40% />
 
 Tasker extracts the 6-digit code and sends it to the Telegram Channel and puts it on my clipboard on my PC. 
