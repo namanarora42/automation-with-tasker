@@ -1,4 +1,4 @@
-# Find My Phone 
+# Ring (Find) My Phone 
 
 This project is another implementation of SMS-driven events. I thought of this idea when I had lost my phone while at a party, and my phone, _obviously_, was on vibrate-only. 
 
