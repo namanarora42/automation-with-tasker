@@ -118,7 +118,7 @@ The size of the response in bytes&lt;/_array_net.dinglisch.android.tasker.RELEVA
 			<Int sr="arg10" val="0"/>
 			<Int sr="arg11" val="0"/>
 			<Int sr="arg12" val="1"/>
-			<Str sr="arg2" ve="3">https://api.telegram.org/bot1928050334:AAEWtpSLd28vOXCsUMFjb2GUaD7nKBaYUL0/sendMessage?chat_id=-1001567423915&amp;text=%code1</Str>
+			<Str sr="arg2" ve="3">https://api.telegram.org/<INSERT BOT TOKEN HERE>/sendMessage?chat_id=-<INSERT CHANNEL ID HERE>&amp;text=%code1</Str>
 			<Str sr="arg3" ve="3"/>
 			<Str sr="arg4" ve="3"/>
 			<Str sr="arg5" ve="3"/>
