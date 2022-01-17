@@ -17,7 +17,7 @@ I have automated just about everything possible on my phone and at home using fu
 
 In this repo, I will be sharing some of my projects that I use to make everyday life easier.
 
-Index
+## Index
 
 1. [Missed Call Alert](https://github.com/namanarora97/automation-with-tasker/tree/main/Missed-Call-Alert)
 
